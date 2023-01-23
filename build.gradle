@@ -9,6 +9,7 @@ repositories {
 dependencies {
     testImplementation(
             "com.codeborne:selenide:6.10.3",
+            "com.github.javafaker:javafaker:0.12",
             "org.junit.jupiter:junit-jupiter:5.9.1",
             "org.slf4j:slf4j-simple:2.0.6"
     )
