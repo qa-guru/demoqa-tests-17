@@ -1,4 +1,4 @@
-package locators;
+package examples.locators;
 
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.$;
